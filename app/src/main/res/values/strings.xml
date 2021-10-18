@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">rmp25</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="ds">*</string>
+    <string name="bvc">/</string>
+</resources>
